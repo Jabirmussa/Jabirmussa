@@ -20,6 +20,8 @@
   <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
+<img align="center" alt="iot" src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white" />
+<img align="center" alt="embedded" src="https://img.shields.io/badge/Embedded_Systems-FF6600?style=for-the-badge&logo=arduino&logoColor=white" />
 <img align="center" alt="phyton" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
 
