@@ -1,14 +1,10 @@
 ## Olá! Eu sou o Jabir Mussa 🖐️
-
-[![Blog](https://img.shields.io/website?label=portifolio23.rf.gd&style=for-the-badge&url=http://portifolio23.rf.gd/)](https://portifolio-beta-olive.vercel.app/)
+[![Portfólio](https://img.shields.io/website?label=jabirmussa.vercel.app&style=for-the-badge&url=https://jabirmussa.vercel.app/)](https://jabirmussa.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jabirdesigner)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/jabirmussa)
-
 ![Jabir GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=jabirmussa&show_icons=true&theme=dracula&count_private=false)
-
 ## My Skills
-
 <div style="display: inline_block">
   <img align="center" alt="html5" style="margin: 4px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" style="margin: 4px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,8 +19,4 @@
   <img align="center" alt="embedded" style="margin: 4px;" src="https://img.shields.io/badge/Embedded_Systems-FF6600?style=for-the-badge&logo=arduino&logoColor=white" />
   <img align="center" alt="phyton" style="margin: 4px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
-
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-
-
